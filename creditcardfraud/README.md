@@ -4,14 +4,15 @@
 
 I have tried the following three algorithms:
 
-- Naives Bayes Theorem
-- XGboost
+- Decison Tree Classifier
+- Support Vector Classifier
+- Logistic Regression
 
-The XGboost model had the higher accuracy.
+The Decision Tree Classifier model had the higher accuracy.
 
 ## Dataset
 
-Download the dataset from [kaggle website]()
+Download the dataset from [kaggle website](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ## Development Environment
 
