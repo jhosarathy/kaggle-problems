@@ -1,8 +1,17 @@
 # Credit Card Fraud Detection
 
+## Approach
+
+I have tried the following three algorithms:
+
+- Naives Bayes Theorem
+- XGboost
+
+The XGboost model had the higher accuracy.
+
 ## Dataset
 
-Download the dataset from [kaggle website](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+Download the dataset from [kaggle website]()
 
 ## Development Environment
 
