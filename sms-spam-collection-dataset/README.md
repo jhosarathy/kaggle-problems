@@ -27,5 +27,6 @@ Preferred IDE: VS Code
 ```bash
 git clone git@github.com:jhosarathy/kaggle-problems
 cd kaggle-problems/creditcardfraud
+pip3 install -r requirements.txt
 jupyter notebook
 ```
